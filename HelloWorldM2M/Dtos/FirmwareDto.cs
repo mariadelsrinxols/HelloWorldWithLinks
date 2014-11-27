@@ -8,5 +8,7 @@ namespace HelloWorldM2M.Dtos
     public string Name { get; set; }
     public Uri Uri { get; set; }
     public string UpdateStatus { get; set; }
+
+    //comment to branch
   }
 }
